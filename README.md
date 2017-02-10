@@ -1,5 +1,5 @@
-# DST-Coestar
-Repo for [Coestar](https://twitch.tv/coestar) [Don't Starve Together](http://dontstarvegame.com) mod
+# DST-Necomie
+Repo for [Necomie](https://twitter.com/_necomie_) [Don't Starve Together](http://dontstarvegame.com) mod
 
 ## Resources
 In general, this is a great resource: [[Don't Starve Together] Mods and Tools](http://forums.kleientertainment.com/forum/79-dont-starve-together-mods-and-tools/)
